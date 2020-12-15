@@ -40,7 +40,9 @@ export const deployments = {
   ConditionUniswapV2RateStateful: "0x0E9C01D0f7ddA51acEF03534490ec91a9975C4dB", // verified
 
   // ===== Gelato Core ====
-  GelatoCore: "0x733aDEf4f8346FD96107d8d6605eA9ab5645d632", // verified
+  GelatoCore: "0x3b50336E3E1E618FE74DF351966ebaD2B12cD24a", // verified
+  ConcurrentPermissionedExecutorsProxy:
+    "0x69623a227Cf0aFF37C3c60f5cd74bfed04377c79", // verified
 
   // ==== Gelato Executors ====
   // === Modules ===
